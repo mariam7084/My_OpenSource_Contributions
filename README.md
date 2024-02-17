@@ -1,4 +1,4 @@
-List of all Open Source Programs I have participated in.
+List of all Open Source Programs I have participated in and my contributions in them.
 
 ## KWoC 2023
 1. [Eurovision Song Analysis](https://github.com/abhisheks008/ML-Crate/tree/3e30972180ef4df0c3949883edfdb0d343077252/Eurovision%20Song%20Contest%20Analysis/Model)
