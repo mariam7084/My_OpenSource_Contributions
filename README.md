@@ -9,6 +9,7 @@ List of all Open Source Programs I have participated in and my contributions in 
 2. [PISA Performance Score Analysis](https://github.com/abhisheks008/ML-Crate/tree/74fa61c39be0eb655d55b0661e8c4e68a6491d09/PISA%20Performance%20Score%20Analysis/Model)
 3. [Global Retailers Analysis](https://github.com/abhisheks008/ML-Crate/tree/f32ed9ba062edf280031f6787f27c8d13a18c478/Global%20Retailers%20Analysis/Model)
 4. [World Population Growth Analysis](https://github.com/abhisheks008/ML-Crate/tree/ca765e1ff7c576e392bef4d039e95c74c74026a0/World%20Population%20Growth%20Analysis/Model)
+5. [Google Playstore Analysis & Rating Prediction](https://github.com/abhisheks008/ML-Crate/tree/6c581aa63cffb5c03fa25dc020cd1cfdbe5760d2/Google%20Playstore%20Analysis%20And%20Rating%20Predictor/Model)
 
 ## DWoC 2023
 1. [README modification](https://github.com/mariam7084/DL-Simplified/tree/9747c42207f6e967d5fdc50ee49fe9d03d10043e/Avocados%20Classification)
